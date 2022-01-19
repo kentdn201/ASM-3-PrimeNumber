@@ -1,0 +1,15 @@
+D:\code\C#\D3 - Delegate Event\bin\Debug\net6.0\D3 - Delegate Event.exe
+D:\code\C#\D3 - Delegate Event\bin\Debug\net6.0\D3 - Delegate Event.deps.json
+D:\code\C#\D3 - Delegate Event\bin\Debug\net6.0\D3 - Delegate Event.runtimeconfig.json
+D:\code\C#\D3 - Delegate Event\bin\Debug\net6.0\D3 - Delegate Event.dll
+D:\code\C#\D3 - Delegate Event\bin\Debug\net6.0\ref\D3 - Delegate Event.dll
+D:\code\C#\D3 - Delegate Event\bin\Debug\net6.0\D3 - Delegate Event.pdb
+D:\code\C#\D3 - Delegate Event\obj\Debug\net6.0\D3 - Delegate Event.csproj.AssemblyReference.cache
+D:\code\C#\D3 - Delegate Event\obj\Debug\net6.0\D3 - Delegate Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\D3 - Delegate Event\obj\Debug\net6.0\D3 - Delegate Event.AssemblyInfoInputs.cache
+D:\code\C#\D3 - Delegate Event\obj\Debug\net6.0\D3 - Delegate Event.AssemblyInfo.cs
+D:\code\C#\D3 - Delegate Event\obj\Debug\net6.0\D3 - Delegate Event.csproj.CoreCompileInputs.cache
+D:\code\C#\D3 - Delegate Event\obj\Debug\net6.0\D3 - Delegate Event.dll
+D:\code\C#\D3 - Delegate Event\obj\Debug\net6.0\ref\D3 - Delegate Event.dll
+D:\code\C#\D3 - Delegate Event\obj\Debug\net6.0\D3 - Delegate Event.pdb
+D:\code\C#\D3 - Delegate Event\obj\Debug\net6.0\D3 - Delegate Event.genruntimeconfig.cache
